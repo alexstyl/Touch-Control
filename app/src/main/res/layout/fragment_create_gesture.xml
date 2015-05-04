@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:singleLine="true"
+        android:hint="@string/command_name_hint"
+        android:id="@+id/gesture_name"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:id="@+id/gesture_action"
+        android:layout_height="48dp" />
+
+    <com.alexstyl.touchcontrol.ui.widget.AdditionalActionView
+        android:layout_width="match_parent"
+        android:id="@+id/additional_action"
+        android:layout_height="48dp" />
+
+
+    <android.gesture.GestureOverlayView
+        android:layout_marginTop="8dp"
+        android:background="@drawable/dotted_square_padded"
+        android:id="@+id/gesture_to_record"
+        android:gestureColor="@color/gesture_color"
+        android:gestureStrokeType="multiple"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

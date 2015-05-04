@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_gesture_region">8dp</dimen>
+
+
+    <!-- Gestures -->
+    <dimen name="gesture_thumbnail_inset">8dip</dimen>
+    <dimen name="gesture_thumbnail_size">64dip</dimen>
+
+    <dimen name="overlay_height">50dp</dimen>
+    <dimen name="overlay_width">50dp</dimen>
+
+    <dimen name="gesture_icon_height">56dp</dimen>
+    <dimen name="gesture_icon_width">64dp</dimen>
+    <dimen name="padding_tight">6dp</dimen>
+    <dimen name="action_width">48dp</dimen>
+    <dimen name="action_height">48dp</dimen>
+
+    <dimen name="card_edgepadding">8dp</dimen>
+    <dimen name="call_avatar_width">64dp</dimen>
+</resources>

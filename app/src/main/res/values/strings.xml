@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Gesture Control</string>
+
+    <string name="service_is_running">Service is running</string>
+    <string name="send_mail_via">Send email via</string>
+    <string name="voice_recognition_title">Say a command i.e. \"Call Mom\"</string>
+    <string name="no_prediction">Gesture not recognised</string>
+    <string name="switch_label">Enable Gestures</string>
+    <string name="empty_no_gestures">There are no save Touch Gestures. Press the + to create one</string>
+    <string name="draw_a_gesture">Perform an action by drawing a shape</string>
+    <string name="calls">Calls %s</string>
+    <string name="launches_app">Launches the %s app</string>
+    <string name="camera">Camera</string>
+    <string name="launches_website">Launches website</string>
+    <string name="checks_in">Checks-in at %s</string>
+
+    <string name="launches_voice">Starts voice commands</string>
+    <string name="modifies_volume">Adjusts Volume</string>
+    <string name="navigation">Navigation</string>
+    <string name="volume">Volume</string>
+    <string name="command_name_hint">Gesture name</string>
+    <string name="no_app_for_action">Couldn\'t find an app to perform this action</string>
+    <string name="save">Save</string>
+    <string name="flip_title">Flip to Silent</string>
+    <string name="flip_summary">Flip your device to silent all notifications</string>
+    <string name="shake_for_torch_title">Shake for Torch</string>
+    <string name="shake_for_torch_summary">Shake your device to turn your flash light on/off</string>
+    <string name="rotate_for_camera">Rotate for Camera</string>
+    <string name="rotate_for_camera_summary">Rotate your phone vertically and start taking pictures!</string>
+    <string name="physical_gestures">Physical Gestures</string>
+    <string name="touch_gestures">Touch Gestures</string>
+    <string name="long_press_for_voice">Long Press for Voice Command</string>
+    <string name="long_press_for_voice_summary">Long pressing the floating button will start a voice command</string>
+    <string name="gesture_saved">Gesture created</string>
+    <string name="delete_gesture">Delete %s?</string>
+    <string name="delete_gesture_summary">Would you like to delete this gesture?</string>
+    <string name="gesture_removed">%s removed</string>
+
+
+    <!--<string-array name="touch_actions">-->
+    <!--<item>Call…</item>-->
+    <!--<item>Open App…</item>-->
+    <!--<item>Navigate…</item>-->
+    <!--<item>Check-in</item>-->
+    <!--<item>Camera</item>-->
+
+    <!--<item>Start Voice Command</item>-->
+    <!--</string-array>-->
+
+    <string name="action_call">Call…</string>
+    <string name="action_open">Open App…</string>
+    <string name="action_navigate">Navigate to…</string>
+    <string name="action_check_in">Check-in</string>
+    <string name="action_start_voice_command">Start Voice Command</string>
+
+    <string name="calling_x">Calling %s…</string>
+    <string name="no_matches_found">No matches found</string>
+    <string name="no_phone_number">No phone number found</string>
+    <string name="error_missing_gesture">Draw the gesture that starts the command</string>
+    <string name="hint_enter_address">Address i.e. Baker Street 221B Baker Street</string>
+    <string name="hint_enter_number">Phone number i.e. 555-PIZZA</string>
+    <string name="create_gesture">New Touch Gesture</string>
+    <string name="error_missing_number">Enter a phone number</string>
+    <string name="error_missing_address">Enter a location</string>
+    <string name="select_app">Select an app</string>
+    <string name="action_call_contact">Call contact…</string>
+    <string name="unrecognised_gesture">Couldn\'t recognise gesture</string>
+    <string name="no_app_found">App %s not found</string>
+
+
+    <!-- about -->
+    <string name="about_message_by">by Alexandros Stylianidis, MSc Human-Computer Interaction</string>
+    <string name="about_message_contact">contact me at alexstyl.dev@gmail.com</string>
+
+    <string name="close">Close</string>
+    <string name="licences">Licences</string>
+    <string name="button_done">Done</string>
+    <string name="button_discard">Discard</string>
+    <string name="error_missing_name">Give a name to your gesture</string>
+    <string name="ticker_flash">Flash is On</string>
+    <string name="touch_to_turn_off">Touch to turn off</string>
+    <string name="action_volume_up">Increase volume</string>
+    <string name="action_volume_down">Decrease volume</string>
+    <string name="about">About</string>
+    <string name="increases_volume">Increases volume</string>
+    <string name="decreases_volume">Decreases volume</string>
+    <string name="sensors_disabled">Physical Gestures disabled to conserve battery life</string>
+    <string name="dark_for_torch">Torch notification when dark</string>
+    <string name="dark_for_torch_summary">Suggests to turn on the torch in dark places</string>
+    <string name="touch_to_turn_on">How about turning the torch on?</string>
+    <string name="its_dark_in_here">It\'s a bit dark in here</string>
+    <!-- about -->
+
+
+</resources>

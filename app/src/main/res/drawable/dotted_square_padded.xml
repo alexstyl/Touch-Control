@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:bottom="@dimen/padding_gesture_region"
+        android:left="@dimen/padding_gesture_region"
+        android:right="@dimen/padding_gesture_region"
+        android:top="@dimen/padding_gesture_region"
+        android:drawable="@drawable/dotted_square" />
+
+    <!--<item android:drawable="@drawable/semi_transparent_background" />-->
+
+</layer-list>

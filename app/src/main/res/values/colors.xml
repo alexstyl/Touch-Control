@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gesture_color">@color/accent</color>
+    <color name="overlay_color">@color/primary</color>
+
+
+    <color name="primaryDark">#0D47A1</color>
+    <color name="primary">#2196F3</color>
+    <color name="accent">#FF80AB</color>
+
+
+    <color name="card_text">#707070</color>
+    <color name="semi_transparent">#99000000</color>
+    <color name="gesture_background">#ff514d49</color>
+
+
+    <color name="overlay_area">@color/primary</color>
+    <color name="red_warning">#F44336</color>
+    <color name="yellow_torch">#FDD835</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:clickable="false"
+    android:focusableInTouchMode="false"
+    android:focusable="false"
+    android:background="@drawable/transition_square_drawable"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:id="@+id/touch_target"
+        android:clickable="false"
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+        android:layout_height="match_parent" />
+
+    <android.gesture.GestureOverlayView
+        android:layout_width="match_parent"
+        android:clickable="false"
+        android:focusableInTouchMode="false"
+        android:layout_height="match_parent"
+        android:focusable="false"
+        android:id="@+id/gestures_overlay"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentTop="false" />
+
+    <!--<Button-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:id="@+id/btn_debug"-->
+    <!--android:text="DEBUG"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content" />-->
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/selectable_drawable"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/gesture_icon_height">
+
+    <ImageView
+        android:background="@color/gesture_background"
+        android:id="@android:id/icon"
+        android:layout_width="@dimen/gesture_icon_width"
+        android:layout_height="@dimen/gesture_icon_height" />
+
+    <LinearLayout
+        android:paddingLeft="@dimen/padding_tight"
+        android:paddingRight="@dimen/padding_tight"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="Heart"
+            android:layout_width="match_parent"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:id="@android:id/text1"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Calls Mom"
+            android:layout_width="match_parent"
+            android:id="@android:id/text2"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

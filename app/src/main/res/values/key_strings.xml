@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_firstTimeRun" translatable="false">key_firstTimeRun</string>
+    <string name="key_command_started" translatable="false">key_command_started</string>
+    <string name="key_flip_gesture" translatable="false">key_flip_gesture</string>
+    <string name="key_shake_gesture" translatable="false">key_shake_gesture</string>
+    <!--<string name="key_rotate_gesture" translatable="false">key_rotate_gesture</string>-->
+    <string name="key_long_press_action" translatable="false">key_long_press_action</string>
+    <string name="key_service_enabled" translatable="false">key_service_enabled</string>
+    <string name="key_light_action" translatable="false">key_light_action</string>
+
+
+</resources>
