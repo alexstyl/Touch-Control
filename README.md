@@ -18,5 +18,6 @@ Features:
 
 <li>In order to preserve battery, the sensors are being unregistered when the screen is off, and are being registered when the screen is on again.</li>
 <li>Two locales: English, Greek.</li>
-
 </ul>
+
+<p>This app was developed as part of one of the modules of my MSc in Human-Computer Interaction.</p>
