@@ -20,4 +20,12 @@ Features:
 <li>Two locales: English, Greek.</li>
 </ul>
 
+<h1>Screenshots</h1> 
+<a href='http://postimg.org/image/f60l4lz8l/' target='_blank'><img src='http://s2.postimg.org/f60l4lz8l/Screen_Shot_2015_05_24_at_12_16_51.png' border='0' alt="Screen Shot 2015 05 24 at 12 16 51" /></a> 
+<a href='http://postimg.org/image/69pt0o8md/' target='_blank'><img src='http://s2.postimg.org/69pt0o8md/Screen_Shot_2015_05_24_at_12_18_31.png' border='0' alt="Screen Shot 2015 05 24 at 12 18 31" /></a><br /><br />
+
+
 <p>This app was developed as part of one of the modules of my MSc in Human-Computer Interaction.</p>
+
+
+
